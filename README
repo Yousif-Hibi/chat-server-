@@ -1,0 +1,9 @@
+208082081
+
+Yousif Hibi   208082081
+
+EX4 – Event-Driven Chat Server
+
+README:- a file that has information about the author and the exercise
+
+chatServer.c :- it will implement an event-driven chat server. The function of the chat is to forward each incoming message’s overall client connections except for the client connection over which the message was received.
